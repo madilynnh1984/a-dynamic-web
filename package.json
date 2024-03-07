@@ -1,0 +1,26 @@
+{
+"name": "a-dynamic34e",
+"version": "1.0.0",
+"description": "a dynamic web application designed to revolutionize how businesses manage their customer relationships",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/madilynnh1984/a-dynamic-web.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "madilynnh1984",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
